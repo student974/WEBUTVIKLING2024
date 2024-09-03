@@ -23,7 +23,7 @@
             <articl>
                 <h2>HTML Feilene som må fikses<h3>
                 <p>Dette er et avsnitt som mangler et avsluttende tegn
-                <img src="image.jpg alt="Bilde med manglende fnutter>
+                <img src="https://cdn.pixabay.com/photo/2023/07/21/16/23/cat-8141916_960_720.jpg alt="Bilde med manglende fnutter>
             </articl>
         </section>
 
