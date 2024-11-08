@@ -1,18 +1,21 @@
-<DOCTYPE>
-<html>
-    <meta charset=utf-8>
-    <titel>Validerings Oppgave</title>
-</head>
-<body>
-    <header
-        <h1>Velkommen til Min Side<h2>
+<!DOCTYPE html>
+<html lang="nb">
+    <head>
+        <meta charset=UTF-8>    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <titel>Validerings Oppgave</title>
+    </head>
+    <body>
+        <header
+        <h1>Velkommen til Min Side<h1>
         <nav>
             <ul>
                 <li><a href=index.html>Hjem</a></li>
                 <li><a href=about.html>Om Meg<li>
                 <li><a href="contact.html">Kontakt</a>
             </ul>
-        </naw>
+        </nav>
     </header
 
     <main>
@@ -44,6 +47,6 @@
     <footer>
         <p>Kontakt meg på epost: <a href="mailto:epost@domain.com>Epost</a></p>
         <h1>&copy 2024 Mitt Navn</h1>
-    <footer
+    </footer>
 </body>
 </html>
